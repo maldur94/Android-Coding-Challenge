@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Coding Challenge</string>
+    <string name="config_server_url">https://staging-app.shiftkey.com</string>
 </resources>
